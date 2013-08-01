@@ -1,8 +1,7 @@
 Search-Algorithms
 =================
 
-Experimenting with commonly used search algorithms
-Platform: Java
+Commonly used search algorithms implemented in Java
 
 Contents:
 ---------
